@@ -1,0 +1,18 @@
+.table {
+	font-size: 12px;
+}
+.nav {
+	font-size: 12px;
+}
+.control-label{
+	font-size: 11px;
+}
+.chzn-select{
+    width: 320px;
+}
+.address {
+	font-size: 16px;
+}
+$('.datepicker').datepicker({
+    format: 'dd/mm/yyyy'
+ });
